@@ -19,18 +19,18 @@
 *```
    * @project_name : Suhail-Md
    * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @youtube : https://youtube.com/@ffgaminggods?si=KmGOxovk3xaUuO5Q
+   * @description : NEMESIS-Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
    * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * © 2024 NEMESIS-Md.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Suhail_Md = "NEMESIS MD Whatsapp bot md"
 let {smd , prefix,Config} = require("../lib")
 
 // ============================ CHATS SETTINGS ============================ 
